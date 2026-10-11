@@ -48,4 +48,4 @@ The exact MATLAB release and toolbox requirements have not been specified; confi
 
 ## License
 
-No license has been specified. Add a license if you intend to permit reuse or redistribution.
+This Project is Under MIT License.
